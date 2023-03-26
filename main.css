@@ -64,8 +64,8 @@ section {
 @media (max-width: 500px) {
   section {
     display: grid;
-    grid-template-columns: repeat(2, 5rem);
-    grid-template-rows: repeat(6, 5rem);
+    grid-template-columns: repeat(4, 5rem);
+    grid-template-rows: repeat(4, 5rem);
     grid-gap: 1rem;
     perspective: 800px;
   }
